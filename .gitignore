@@ -1,0 +1,19 @@
+# Build output
+/Makefile
+/m4a_to_mp3
+/main.o
+/main.moc
+/moc_predefs.h
+/.qmake.stash
+/build*/
+/dist/
+
+# Removed platform-specific versions
+/android/
+/windows/
+
+# Local IDE metadata
+/.qtc_clangd/
+/.qtcreator/
+/.vscode/c_cpp_properties.json
+/.vscode/launch.json

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=SesDönüştür
+GenericName=Ses dosyası dönüştürücü
+Comment=M4A, M4B, AAC ve MP4 dosyalarını MP3'e dönüştür
+Exec=m4a_to_mp3
+Icon=sesdonustur
+Terminal=false
+Categories=AudioVideo;Audio;
+StartupWMClass=m4a_to_mp3
